@@ -2,7 +2,7 @@ void setup()
 {
 
   //size(3840, 2040);
-  size(1280, 800);
+  size(1000, 1000);
   background(255);
   strokeWeight(1);
   smooth();
